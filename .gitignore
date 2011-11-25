@@ -1,0 +1,13 @@
+vim73/*
+vimfiles/colors/
+!vimfiles/bundle/vundle/*
+vimfiles/bundle/*
+vimfiles/compiler/
+vimfiles/config/
+vimfiles/ftplugin/
+vimfiles/indent/
+vimfiles/keymap/
+vimfiles/plugin/
+vimfiles/snippets/
+vimfiles/syntax/
+vimfiles/ftdetect/
